@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3790","navegacion_tap_inicio_vuelve_al_home","Navegación Inferior — tvnPass iOS","2026-04-21","passed","2026-04-21","","","",""
+"","3019","navegacion_tab_explorar_visible","Navegación Inferior — tvnPass iOS","2026-04-21","passed","2026-04-21","","","",""
+"","7334","navegacion_tap_explorar_muestra_contenido","Navegación Inferior — tvnPass iOS","2026-04-21","passed","2026-04-21","","","",""
+"","3028","navegacion_tab_buscar_visible","Navegación Inferior — tvnPass iOS","2026-04-21","passed","2026-04-21","","","",""
+"","3557","navegacion_tap_buscar_muestra_campo","Navegación Inferior — tvnPass iOS","2026-04-21","passed","2026-04-21","","","",""
+"","3042","navegacion_tab_menu_visible","Navegación Inferior — tvnPass iOS","2026-04-21","passed","2026-04-21","","","",""
+"","4185","navegacion_tab_inicio_visible","Navegación Inferior — tvnPass iOS","2026-04-21","passed","2026-04-21","","","",""
